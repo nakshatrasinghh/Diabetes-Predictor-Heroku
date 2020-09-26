@@ -16,7 +16,7 @@ Please do ⭐ the repository, if it helped you in anyway.
 
 **Summary**:
 
-The model was build by using the following [Dataset](https://www.kaggle.com/harsha547/indian-premier-league-csv-dataset). 
+The model was build by using the following [Dataset](https://www.kaggle.com/johndasilva/diabetes). 
 Logistic Regression, Decision Trees, Random Forest, Support Vector Machine, XGBoost was used to train the model. Random Forest gave us the best model metrics, so I converted it into a pickel file and saved it.
 
 **Run Deployed Model 👇**
