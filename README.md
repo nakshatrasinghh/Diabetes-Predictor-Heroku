@@ -23,7 +23,7 @@ Logistic Regression, Decision Trees, Random Forest, Support Vector Machine, XGBo
 
 [![Deploy](https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg)](https://diabetes-predictor-heroku-app.herokuapp.com/)
 
-Click on the icon to run the model in your browser directly. Just pass the values and the model will predict the score :)
+Click on the icon above to run the single page application in your browser directly. Just pass the values and the model will predict whether you have diabetes or not :)
 
 # Message Me
 Feel free to click on the icon to personally message me on Whatsapp if you have any doubts :)
