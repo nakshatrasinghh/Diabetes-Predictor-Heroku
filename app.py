@@ -36,6 +36,6 @@ def predict():
 	# Renders result template
         return render_template('result.html', prediction=my_prediction)
 
-# Call main app
+
 if __name__ == '__main__':
 	app.run(debug=True)
