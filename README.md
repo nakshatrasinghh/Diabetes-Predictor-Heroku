@@ -23,7 +23,13 @@ Logistic Regression, Decision Trees, Random Forest, Support Vector Machine, XGBo
 
 [![Deploy](https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg)](https://diabetes-predictor-heroku-app.herokuapp.com/)
 
-Click on the icon above to run the single page application in your browser directly. Just pass the values and the model will predict whether you have diabetes or not :)
+Click on the icon above to run the single page application in your browser directly. Just pass the values and the model will predict whether you have diabetes or not 💉.
+
+**Run Notebook in Colab 👇**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Diabetes-Predictor-Heroku/blob/master/EDA%2BClassifiers.ipynb)
+
+Click on the icon to run the notebook directly in Google colab. This notebook runs without downloading the dataset (Thanks to gdown), you don't need to download anything to get started 💪. Just click, Learn and Explore 🔭🤗.
 
 # Message Me
 Feel free to click on the icon to personally message me on Whatsapp if you have any doubts :)
