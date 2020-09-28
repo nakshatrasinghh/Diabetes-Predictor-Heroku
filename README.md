@@ -12,7 +12,7 @@ If you want to build something together, feel free to email me at - nakshatradsu
 
 If you forked this repository, you can link it to your heroku app afterwards.
 
-***Please do ⭐ the repository, if it helped you in anyway.***
+Please do ⭐ the repository, if it helped you in anyway.
 
 **Summary**:
 
