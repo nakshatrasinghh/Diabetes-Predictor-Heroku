@@ -100,6 +100,7 @@
 
 	/* Footer */
 	.footer{
+		font-size: 21px; 
 		flex-shrink: 0;
 		position: relative;
 		padding: 20px;
