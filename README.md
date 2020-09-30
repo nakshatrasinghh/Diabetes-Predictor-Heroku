@@ -14,7 +14,7 @@ If you want to build something together, feel free to email me at - nakshatradsu
 
 The explanation Notebook runs without downloading the datasets (Thanks to gdown). Just click, Learn and Explore 🔭🤗.
 
-If you forked this repository, you can link it to your heroku app afterwards 🍴.
+If you forked this repository, you can link it to your heroku app afterwards 🔗.
 
 **Summary**:
 
