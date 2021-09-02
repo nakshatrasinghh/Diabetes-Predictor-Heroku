@@ -1,41 +1,23 @@
 # Diabetes Predictor - Deployment
 
-![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
+Development Stack
 
-Made with ❤️ by Nakshatra Singh.
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/nakshatrasinghh/).
-
-Please do ⭐ the repository, if it helped you in anyway.
-
-If you want to build something together, feel free to email me at - nakshatradsu@gmail.com 📧.
-
-👉 If you like my work, check out my other [Repositories!](https://github.com/nakshatrasinghh?tab=repositories) 👈
-
-The explanation Notebook runs without downloading the datasets (Thanks to gdown). Just click, Learn and Explore 🔭🤗.
+The notebook runs without downloading the datasets (Thanks to gdown). Just click, Learn and Explore.
 
 If you forked this repository, you can link it to your heroku app afterwards 🔗.
 
-**Summary**:
+**Summary**
 
 The model was build by using the following [Dataset](https://www.kaggle.com/johndasilva/diabetes). 
 Logistic Regression, Decision Trees, Random Forest, Support Vector Machine, XGBoost was used to train the model. Random Forest gave us the best model metrics, so I converted it into a pickel file and saved it.
 
-**Run Deployed Model 👇**
+**Run Deployed Model**
 
-[![Deploy](https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg)](https://diabetes-predictor-heroku-app.herokuapp.com/)
+[![Deploy](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://diabetes-predictor-heroku-app.herokuapp.com/)
 
 Click on the icon above to run the single page application in your browser directly. Just pass the values and the model will predict whether you have diabetes or not 💉.
-
-**Run Notebook in Colab 👇**
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Diabetes-Predictor-Heroku/blob/master/EDA%2BClassifiers.ipynb)
-
-Click on the icon to run the notebook directly in Google colab. This notebook runs without downloading the dataset (Thanks to gdown), you don't need to download anything to get started 💪. Just click, Learn and Explore 🔭🤗.
-
-# Message Me
-Feel free to click on the icon to personally message me on Whatsapp if you have any doubts :)
-</a>
-<a href="https://wa.link/8bt67v">
-  <img align="left" alt="Nakshatra's Whatsapp" width="30px" src="https://image.flaticon.com/icons/svg/785/785767.svg" />
-</a>
